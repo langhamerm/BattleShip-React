@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/BattleShip-React/static/css/main.540d7d5b.chunk.css",
+    "main.js": "/BattleShip-React/static/js/main.eda00806.chunk.js",
+    "main.js.map": "/BattleShip-React/static/js/main.eda00806.chunk.js.map",
+    "runtime-main.js": "/BattleShip-React/static/js/runtime-main.61fd374a.js",
+    "runtime-main.js.map": "/BattleShip-React/static/js/runtime-main.61fd374a.js.map",
+    "static/js/2.b5709571.chunk.js": "/BattleShip-React/static/js/2.b5709571.chunk.js",
+    "static/js/2.b5709571.chunk.js.map": "/BattleShip-React/static/js/2.b5709571.chunk.js.map",
+    "static/js/3.b660e75b.chunk.js": "/BattleShip-React/static/js/3.b660e75b.chunk.js",
+    "static/js/3.b660e75b.chunk.js.map": "/BattleShip-React/static/js/3.b660e75b.chunk.js.map",
+    "index.html": "/BattleShip-React/index.html",
+    "static/css/main.540d7d5b.chunk.css.map": "/BattleShip-React/static/css/main.540d7d5b.chunk.css.map",
+    "static/js/2.b5709571.chunk.js.LICENSE.txt": "/BattleShip-React/static/js/2.b5709571.chunk.js.LICENSE.txt",
+    "static/media/background_sound.3cdc6e71.mp3": "/BattleShip-React/static/media/background_sound.3cdc6e71.mp3",
+    "static/media/bs_logo.46ed26ed.png": "/BattleShip-React/static/media/bs_logo.46ed26ed.png",
+    "static/media/fire_shot.e38f5946.mp3": "/BattleShip-React/static/media/fire_shot.e38f5946.mp3",
+    "static/media/music.73164409.mp3": "/BattleShip-React/static/media/music.73164409.mp3",
+    "static/media/shot_hit.96a50b26.mp3": "/BattleShip-React/static/media/shot_hit.96a50b26.mp3",
+    "static/media/shot_miss.058afc20.mp3": "/BattleShip-React/static/media/shot_miss.058afc20.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61fd374a.js",
+    "static/js/2.b5709571.chunk.js",
+    "static/css/main.540d7d5b.chunk.css",
+    "static/js/main.eda00806.chunk.js"
+  ]
+}
