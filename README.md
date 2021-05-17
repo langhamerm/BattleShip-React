@@ -19,3 +19,7 @@ Player's take turns guessing by calling out the coordinates. The opponent respon
 When all of the squares that one your ships occupies have been hit, the ship will be sunk.   You should announce "hit and sunk".  In the physical game, a red peg is placed on the top edge of the vertical board to indicate a sunk ship. 
 
 As soon as all of one player's ships have been sunk, the game ends.
+
+## Live Demo
+
+https://langhamerm.github.io/BattleShip-React/
